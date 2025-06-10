@@ -20,6 +20,6 @@ tt_client = TwitterClient(
 
 # ---POSTING---
 
-post = input('Escreva o post: ')
+post = input('Escreva o post: ') # TODO: Add images. Save all sent posts & their responses
 
 clientPost(bs_client, tt_client, post)

@@ -1,0 +1,5 @@
+bsky:
+uri='at://did:plc:mxuo4b7buzq3cae77sagmev5/app.bsky.feed.post/3lnun6rqc4b2b' cid='bafyreifgo2ioebh7xvs7ebj6wa2haqpd4ggj5y5euzyhb3mlapdppmyqdm'
+
+ttr:
+Response(data={'id': '1916813255470715256', 'text': '18h i-nin-ter-rup-tas de PURE. COCK. and. BALL. TORTURE. [inserir efeitos sonoros: "leão","buzina mexicana","grito tom &amp; jerry"] :sunglasses:', 'edit_history_tweet_ids': ['1916813255470715256']}, includes={}, errors=[], meta={})
